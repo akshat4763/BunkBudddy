@@ -29,14 +29,11 @@ Welcome to the BunkBuddy app, a handy tool designed to help you manage your clas
 
 ## Screenshots
 
-![Attendance Calculator](path/to/screenshot1.png)
-![Calendar Estimator](path/to/screenshot2.png)
-![Simulator Screenshot 1](Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20-%202024-01-15%20at%2021.09.50.png)
-![Simulator Screenshot 2](Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20-%202024-01-16%20at%2017.37.58.png)
-![Simulator Screenshot 3](Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20-%202024-01-16%20at%2017.38.03.png)
-![Simulator Screenshot 4](Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20-%202024-01-16%20at%2017.38.06.png)
+<img src="Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20-%202024-01-15%20at%2021.09.50.png" width="200" alt="Simulator Screenshot 1">
+<img src="Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20-%202024-01-16%20at%2017.37.58.png" width="200" alt="Simulator Screenshot 2">
+<img src="Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20-%202024-01-16%20at%2017.38.03.png" width="200" alt="Simulator Screenshot 3">
+<img src="Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20-%202024-01-16%20at%2017.38.06.png" width="200" alt="Simulator Screenshot 4">
 
-![Sample Image](/Simulator Screenshot - iPhone 15 Pro - 2024-01-15 at 21.09.50.png)
 
 
 ## Installation
