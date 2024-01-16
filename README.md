@@ -1,4 +1,4 @@
-# My Awesome Attendance Calculator App
+# BunkBuddy App
 
 Welcome to the Attendance Calculator app, a handy tool designed to help you manage your class attendance and plan your study schedule effectively.
 
