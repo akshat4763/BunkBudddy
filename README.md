@@ -28,10 +28,10 @@ Welcome to the BunkBuddy app, a handy tool designed to help you manage your clas
     - Obtain the total working days and attendance goals.
 
 ## Screenshots
-Lectures calculator<img src="Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20-%202024-01-16%20at%2017.37.58.png" width="200" alt="Simulator Screenshot 2">
-SplashScreen<img src="Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20-%202024-01-15%20at%2021.09.50.png" width="200" alt="Simulator Screenshot 1">
+ SplashScreen<img src="Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20-%202024-01-16%20at%2017.37.58.png" width="200" alt="Simulator Screenshot 2">
+Result<img src="Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20-%202024-01-15%20at%2021.09.50.png" width="200" alt="Simulator Screenshot 1">
 
-Result Page<img src="Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20-%202024-01-16%20at%2017.38.03.png" width="200" alt="Simulator Screenshot 3">
+ Calculator pagge<img src="Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20-%202024-01-16%20at%2017.38.03.png" width="200" alt="Simulator Screenshot 3">
 Calender Page<img src="Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20-%202024-01-16%20at%2017.38.06.png" width="200" alt="Simulator Screenshot 4">
 
 
